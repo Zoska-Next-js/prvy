@@ -1,4 +1,4 @@
-//prvy/src/app/search/page.tsx
+//prvy/src/app/Vyhladavanie/page.tsx
 //import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
 export const metadata = {title: "Hľadať |ZoskaSnap "};
